@@ -1,0 +1,6 @@
+Your item is..........................SPACER
+Your shipping cost is..............$22.00
+Your are shipping to.............PLUTO
+Your total shipping costs are......$121.00
+
+-----------------------------------Thank you!
